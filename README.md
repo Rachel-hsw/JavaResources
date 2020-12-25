@@ -25,14 +25,14 @@
 点击项目，跳转云盘链接。
 需要的小伙伴，请关注微信公众号:小水怪的Android世界, 或者扫描下方公众号二维码，回复关键字,即可免费获取提取码。海量学习资源，持续更新中~。
 ***
-![](image/qr.png)
+![二维码](image/qr.png)
 
 ***
 ## 课程大纲及学习周期安排 (详细版)
-![](image/image1.png)
-![](image/image2.png)
-![](image/image3.png)
-![](image/image4.png)
+![课程大纲](image/image1.png)
+![课程大纲](image/image2.png)
+![课程大纲](image/image3.png)
+![课程大纲](image/image4.png)
 
 
 
