@@ -25,14 +25,14 @@
 点击项目，跳转云盘链接。
 需要的小伙伴，请关注微信公众号:小水怪的Android世界, 或者扫描下方公众号二维码，回复关键字,即可免费获取提取码。海量学习资源，持续更新中~。
 ***
-![](https://github.com/Rachel-hsw/JavaResources/tree/master/image/qr.png)
+![](image/qr.png)
 
 ***
 ## 课程大纲及学习周期安排 (详细版)
-![](https://github.com/Rachel-hsw/JavaResources/tree/master/image/image1.png)
-![](https://github.com/Rachel-hsw/JavaResources/tree/master/image/image2.png)
-![](https://github.com/Rachel-hsw/JavaResources/tree/master/image/image3.png)
-![](https://github.com/Rachel-hsw/JavaResources/tree/master/image/image4.png)
+![](image/image1.png)
+![](image/image2.png)
+![](image/image3.png)
+![](image/image4.png)
 
 
 
