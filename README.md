@@ -12,9 +12,9 @@
 ###  :lollipop: 项目系列
 
 - [开课吧百万年薪架构师成长之路(关键字：001)](https://pan.baidu.com/s/1XyLWsyyI3bAY3wqdgptztA)
+
 - [2020慕课网零基础造就Java工程师(关键字：002)](https://pan.baidu.com/s/1yyC4EpZHpyw3rPxWW0VtPA)
-- [图灵Java课程第三期(关键字：003)](https://pan.baidu.com/s/1hyfRnQRvtPsmTZ8pVAfrVA)
-- [享学2期(关键字：004)](https://pan.baidu.com/s/1_wbxDINLu-kdKSqasmj6RA)
+
 - [黑马程序员_30天轻松掌握JavaWeb视频(关键字：005)](https://pan.baidu.com/s/1QbeRXJouwZCKeTrXkzR-5Q)
 
 
